@@ -1,5 +1,6 @@
 What is galaxyhax for osu?
 galaxyhax for osu is an all in one cheat for osu!Standard, it's UNDETECTABLE if used properly.
+
 galaxyhax for osu Features:
 Aim Assist: Will assist your mouse towards the next note!
 Relax: Will automatically click the notes for you!
