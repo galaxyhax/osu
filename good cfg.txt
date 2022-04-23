@@ -1,0 +1,9 @@
+My Settings for smart users : 
+Relax Offset 8-12
+Alt Time 295
+Percent 15
+Hold 45(non DT)65(With DT)
+Aim Assist:
+Aim Start 270
+Aim Stop 35
+Aim Speed 3
