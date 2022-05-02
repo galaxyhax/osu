@@ -2,7 +2,7 @@
 <div align="center">
   
   # GalaxyHax for osu
-  ![image](https://github.com/qyopy/galaxyhaxosu/blob/4911292eb7eb1f557e4e36811a8909d7bf5bbee6/galaxyhaxx.png)
+  ![image](https://raw.githubusercontent.com/qyopy/galaxyhaxosu/main/galaxyhaxosu.png)
   
   </div>
 
